@@ -1,0 +1,20 @@
+{
+  "name": "minnesota_release_18_12_2020",
+  "version": "1.0.0",
+  "description": "Prueba Minnesota con capacidad de identificar tiempo de inicio y finalización de cada uno de los momentos de las pruebas ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minnesota",
+    "mediapipe"
+  ],
+  "author": "Andy Esteban Ochoa",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
